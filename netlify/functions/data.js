@@ -33,7 +33,7 @@ exports.handler = async (event, context) => {
                 "sku": "0406654608",
                 "image": "https://i.pinimg.com/736x/50/d6/39/50d63995547de388a983be0511c27025.jpg",
                 "description": {
-                    "colour": "blue",
+                    "colour": "Blue",
                     "size": "Womens uk 8",
                     "weight": 7.5
                 },
