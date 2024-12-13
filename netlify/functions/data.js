@@ -7,8 +7,8 @@ exports.handler = async (event, context) => {
     },
     body: JSON.stringify({
       "customer": {
-        "customerName": "Joanna Kime",
-        "customerEmail": "joanna.test@appamondo.com",
+        "customerName": "Louise Crosby",
+        "customerEmail": "louise.crosby@appamondo.com",
         "customerPhone": "+44 9485 472 128",
         "billingAddress": {
           "street": "47 Park Lane",
@@ -24,37 +24,33 @@ exports.handler = async (event, context) => {
         },
         "order": [
           {
-            "orderNumber": "R123456789",
+            "orderNumber": "123456789",
             "orderStatus": "in depot",
             "product": [
               {
-                "productName": "Green Day 21st Century Breakdown Vinyl",
+                "productName": "Blue Cardigain",
                 "productId": 858383,
                 "sku": "0406654608",
-                "image": "https://m.media-amazon.com/images/I/71pihsEluKL._UF1000,1000_QL80_.jpg",
+                "image": "https://i.pinimg.com/736x/50/d6/39/50d63995547de388a983be0511c27025.jpg",
                 "description": {
-                  "colour": "Orange",
-                  "width": 300,
-                  "height": 200,
-                  "depth": 210,
-                  "weight": 0.75
+                    "colour": "blue",
+                    "size": womens uk 8,
+                    "weight": 7.5
                 },
-                "price": 21.99,
+                "price": 41.99,
                 "quantity": 1
               },
               {
-                "productName": "Barbie Fairytopia",
+                "productName": "Colourful Necklace",
                 "productId": 858236,
                 "sku": "0406634348",
-                "image": "https://m.media-amazon.com/images/I/A1DjEe2mNrL._AC_UF894,1000_QL80_.jpg",
+                "image": "https://i.pinimg.com/736x/22/3e/67/223e67bf354c2dac8ab3fcc4021d9f8f.jpg",
                 "description": {
-                  "colour": "Pink",
-                  "width": 300,
-                  "height": 200,
-                  "depth": 210,
-                  "weight": 0.6
+                    "colour": "Mixed",
+                    "size": One size,
+                    "weight": 0.6
                 },
-                "price": 2.99,
+                "price": 21.99,
                 "quantity": 1
               }
             ]
