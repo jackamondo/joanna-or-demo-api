@@ -34,7 +34,7 @@ exports.handler = async (event, context) => {
                 "image": "https://i.pinimg.com/736x/50/d6/39/50d63995547de388a983be0511c27025.jpg",
                 "description": {
                     "colour": "blue",
-                    "size": womens uk 8,
+                    "size": Womens uk 8,
                     "weight": 7.5
                 },
                 "price": 41.99,
