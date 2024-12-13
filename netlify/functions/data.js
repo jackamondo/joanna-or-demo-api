@@ -34,7 +34,7 @@ exports.handler = async (event, context) => {
                 "image": "https://i.pinimg.com/736x/50/d6/39/50d63995547de388a983be0511c27025.jpg",
                 "description": {
                     "colour": "blue",
-                    "size": Womens uk 8,
+                    "size": "Womens uk 8",
                     "weight": 7.5
                 },
                 "price": 41.99,
@@ -47,7 +47,7 @@ exports.handler = async (event, context) => {
                 "image": "https://i.pinimg.com/736x/22/3e/67/223e67bf354c2dac8ab3fcc4021d9f8f.jpg",
                 "description": {
                     "colour": "Mixed",
-                    "size": One size,
+                    "size": "One size",
                     "weight": 0.6
                 },
                 "price": 21.99,
