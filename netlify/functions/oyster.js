@@ -27,7 +27,7 @@ exports.handler = async (event, context) => {
             "cardId": "123456789",
             "recentTravel": [
               {
-                "line": "Red";
+                "line": "Red",
                 "startDestination": "West Acton",
                 "endDestination": "Lancaster Gate",
                 "price": "£2.78"
