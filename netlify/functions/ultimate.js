@@ -34,7 +34,7 @@ exports.handler = async (event, context) => {
                         "productName": "balloon",
                         "quantity": 1,
                         "unitPrice": 19.99,
-                        "image": "https://d3vappret1737628622.zendesk.com/hc/theming_assets/01JJ9RTBMXPXMCH41BFCKRTX7X"
+                        "image": "https://d3vappret1737628622.zendesk.com/hc/theming_assets/01JJM9DDE4H7AYHJ1TB46EFQKC"
                     }
                 },
                 {
