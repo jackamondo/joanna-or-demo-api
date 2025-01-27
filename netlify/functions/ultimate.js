@@ -29,8 +29,8 @@ exports.handler = async (event, context) => {
         {
             "product": [
                 {
-                    "orderStatus": "Held in depot",
                     "items": {
+	                      "orderStatus": "Held in depot",
                         "productName": "balloon",
                         "quantity": 1,
                         "unitPrice": 19.99,
@@ -38,8 +38,8 @@ exports.handler = async (event, context) => {
                     }
                 },
                 {
-                    "orderStatus": "In Transit",
                     "items": {
+	                      "orderStatus": "In Transit",
                         "productName": "clown mask",
                         "quantity": 1,
                         "unitPrice": 30.99,
