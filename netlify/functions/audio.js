@@ -25,7 +25,7 @@ exports.handler = async (event, context) => {
         "order": [
           {
             "orderNumber": "123456789",
-            "orderStatus": "in depot",
+            "orderStatus": "shipped",
             "orderDate": "06/02/2025",
             "product": [
               {
