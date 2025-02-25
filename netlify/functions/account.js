@@ -11,7 +11,7 @@ exports.handler = async (event, context) => {
         "customerEmail": "louise.crosby@appamondo.com",
         "customerPhone": "+44 9485 472 128"
       },
-      "acount": {
+      "account": {
         "status": "success",
           "balance": {
             "currency": "GBP",
