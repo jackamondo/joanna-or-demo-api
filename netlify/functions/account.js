@@ -12,7 +12,6 @@ exports.handler = async (event, context) => {
         "customerPhone": "+44 9485 472 128"
       },
       "account": {
-        "status": "success",
           "balance": {
             "currency": "GBP",
             "amount": "4250.75"
