@@ -9,7 +9,8 @@ exports.handler = async (event, context) => {
       "profile": {
         "customerName": "Louise Crosby",
         "customerEmail": "louise.crosby@appamondo.com",
-        "customerPhone": "+44 9485 472 128"
+        "customerPhone": "+44 9485 472 128",
+        "verified" : "Approved"
       }
     })
   };
