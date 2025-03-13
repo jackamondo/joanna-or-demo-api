@@ -14,16 +14,16 @@ exports.handler = async (event, context) => {
       },
       "products": [
           {
-            "product": [{
+            "product": {
               "productName": "7.3kWPro Earth RFID Charger",
               "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/https://www.projectev.co.uk/wp-content/uploads/2022/04/7kW-RFID-Tethered-4-PNG.png",
               "purhcaseDate" : "13/01/2025"
-            }],
-          "product": [{
+            },
+          "product": {
             "productName": "APEX-22S-T-4G",
             "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/https://www.projectev.co.uk/wp-content/uploads/2024/03/APEX-Front-Small.webp",
             "purhcaseDate" : "26/11/2024"
-          }]       
+          }       
         }
       ]
     })
