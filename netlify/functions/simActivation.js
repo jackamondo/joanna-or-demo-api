@@ -16,9 +16,8 @@ exports.handler = async (event, context) => {
           "sim": {
             "status": "active",
             "activationDate": "18/03/2025"
-          }
-      },
-       "sims": [
+          },
+         "sims": [
          {
             "simProvider": "Three",
             "image": "https://blogtelecomarketing.wordpress.com/wp-content/uploads/2011/11/group-three1.jpg"
@@ -28,6 +27,7 @@ exports.handler = async (event, context) => {
            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjgEfvTkJJEbpA5cp0kZ3VAVphNRrFOR8_Gw&s"
        }      
       ]
+      }
     })
   };
 }; 
