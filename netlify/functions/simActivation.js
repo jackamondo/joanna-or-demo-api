@@ -17,7 +17,17 @@ exports.handler = async (event, context) => {
             "status": "active",
             "activationDate": "18/03/2025"
           }
-      }
+      },
+       "sims": [
+         {
+            "simProvider": "Three",
+            "image": "https://blogtelecomarketing.wordpress.com/wp-content/uploads/2011/11/group-three1.jpg"
+        },
+        {
+           "simProvider": "O2",
+           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjgEfvTkJJEbpA5cp0kZ3VAVphNRrFOR8_Gw&s"
+       }      
+      ]
     })
   };
 }; 
