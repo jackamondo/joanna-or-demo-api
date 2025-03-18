@@ -10,7 +10,7 @@ exports.handler = async (event, context) => {
         "customerName": "Louise Crosby",
         "customerEmail": "louise.crosby@appamondo.com",
         "customerPhone": "+44 9485 472 128",
-        "customerReference": "WL5737583742"
+        "customerReference": "WL573758372"
       },
       "account": {
           "sim": {
