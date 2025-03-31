@@ -39,7 +39,7 @@ exports.handler = async (event, context) => {
                 "productName": "Turkey - Adult Complete single",
                 "productId": 858383,
                 "sku": "0406654608",
-                "image": https://www.bellaandduke.com/wp-content/uploads/2025/01/BellaDuke-Raw-Dog-Food-Adult-Premium-Complete-Turkey-Frozen-Fresh-Dog-Food-Subscription-UK.webp",
+                "image": "https://www.bellaandduke.com/wp-content/uploads/2025/01/BellaDuke-Raw-Dog-Food-Adult-Premium-Complete-Turkey-Frozen-Fresh-Dog-Food-Subscription-UK.webp",
                 "price": 15.00,
                 "quantity": 1
               },
