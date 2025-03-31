@@ -22,8 +22,6 @@ exports.handler = async (event, context) => {
           "postCode": "LND 4A2",
           "country": "United Kingdom"
         },
-        "product": [
-          {
             "order": [
               {
                 "orderNumber": "123456789",
@@ -57,8 +55,6 @@ exports.handler = async (event, context) => {
               }
             ]
           }
-        ]
-      }
     })
   };
 }; 
