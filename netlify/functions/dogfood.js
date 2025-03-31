@@ -26,11 +26,11 @@ exports.handler = async (event, context) => {
               {
                 "orderNumber": "123456789",
                 "orderStatus": "processing",
-                "productName": "March Adult Complete Subscription",
+                "productName": "Salmon - Adult Complete single",
                 "productId": 858383,
                 "sku": "0406654608",
                 "image": "https://www.bellaandduke.com/wp-content/uploads/2024/10/meal_64_d.webp",
-                "price": 41.99,
+                "price": 15.00,
                 "quantity": 1
               },
               {
@@ -39,7 +39,7 @@ exports.handler = async (event, context) => {
                 "productName": "Turkey - Adult Complete single",
                 "productId": 858383,
                 "sku": "0406654608",
-                "image": "https://www.bellaandduke.com/wp-content/uploads/2024/10/meal_64_d.webp",
+                "image": https://www.bellaandduke.com/wp-content/uploads/2025/01/BellaDuke-Raw-Dog-Food-Adult-Premium-Complete-Turkey-Frozen-Fresh-Dog-Food-Subscription-UK.webp",
                 "price": 15.00,
                 "quantity": 1
               },
