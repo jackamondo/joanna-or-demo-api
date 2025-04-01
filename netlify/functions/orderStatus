@@ -8,25 +8,34 @@ exports.handler = async (event, context) => {
     body: JSON.stringify({
       "delivery": [
         {
-          "delivery_status": "",
-          "order_nubmer": "",
-          "expected_delivery_date": "",
-          "tracking_link": "",
-          "product_name": ""
+          "delivery_status": "processing",
+          "order_nubmer": "SPB123456789012",
+          "expected_delivery_date": "24/04/2025",
+          "tracking_link": "www.trackinglink.com",
+          "product_name": "Layflat XL Landscape Photo Book",
+          "image": "https://www.photobox.co.uk/product-pictures/Photobook/binding/layflat.jpg?d=326x265",
+          "price": "45.99",
+          "quanitity": "1"
         },
         {
-          "delivery_status": "",
-          "order_nubmer": "",
-          "expected_delivery_date": "",
-          "tracking_link": "",
-          "product_name": ""
+          "delivery_status": "in transit",
+          "order_nubmer": "SBP098765432109",
+          "expected_delivery_date": "20/04/2025",
+          "tracking_link": "www.trackinglink.com",
+          "product_name": "Personalised jigsaw",
+          "image": "https://www.photobox.co.uk/product-pictures/product-overview/jigsaw.jpg?d=460x368",
+          "price": "20.99",
+          "quanitity": "1"
         },
         {
-          "delivery_status": "",
-          "order_nubmer": "",
-          "expected_delivery_date": "",
-          "tracking_link": "",
-          "product_name": ""
+          "delivery_status": "in transit",
+          "order_nubmer": "SPB098765432109",
+          "expected_delivery_date": "20/04/2025",
+          "tracking_link": "www.trackinglink.com",
+          "product_name": "Persoanlised Cushion",
+          "image": "https://www.photobox.co.uk/product-pictures/product-overview/cushion.jpg?d=460x368",
+          "price": "20.99",
+          "quanitity": "1"
         }
       ]
     })
