@@ -35,10 +35,10 @@ exports.handler = async (event, context) => {
                 "description": {
                     "colour": "Blue",
                     "size": "Womens uk 8",
-                    "weight": 7.5
+                    "weight": 7.5,
+                    "price": 41.99,
+                    "quantity": 1
                 },
-                "price": 41.99,
-                "quantity": 1
               },
               {
                 "productName": "Colourful Necklace",
@@ -48,10 +48,10 @@ exports.handler = async (event, context) => {
                 "description": {
                     "colour": "Mixed",
                     "size": "One size",
-                    "weight": 0.6
+                    "weight": 0.6,
+                    "price": 21.99,
+                    "quantity": 1
                 },
-                "price": 21.99,
-                "quantity": 1
               }
             ]
           }
