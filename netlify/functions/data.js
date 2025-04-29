@@ -32,27 +32,23 @@ exports.handler = async (event, context) => {
                 "productId": 858383,
                 "sku": "0406654608",
                 "image": "https://i.pinimg.com/736x/50/d6/39/50d63995547de388a983be0511c27025.jpg",
-                "description": {
                     "colour": "Blue",
                     "size": "Womens uk 8",
                     "weight": 7.5,
                     "price": 41.99,
                     "quantity": 1
-                },
               },
               {
                 "productName": "Colourful Necklace",
                 "productId": 858236,
                 "sku": "0406634348",
                 "image": "https://i.pinimg.com/736x/22/3e/67/223e67bf354c2dac8ab3fcc4021d9f8f.jpg",
-                "description": {
                     "colour": "Mixed",
                     "size": "One size",
                     "weight": 0.6,
                     "price": 21.99,
                     "quantity": 1
                 },
-              }
             ]
           }
         ]
