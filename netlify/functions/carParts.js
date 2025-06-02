@@ -9,6 +9,7 @@ exports.handler = async (event, context) => {
 			{
 				"wiperTypes": [
 					{
+						"compatabilityStatus": "Compatible",
 						"type": "Flat Blade",
 						"compatibleCars": [
 							{
