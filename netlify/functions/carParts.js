@@ -36,16 +36,19 @@ exports.handler = async (event, context) => {
 						],
 						"wiperDetails": [
 							{
-								"wiperName": "",
-								"wiperImage": ""
+								"wiperName": "Bosch 3397014354 2x Wiper Blades (Pair) Flat / Aero type",
+								"wiperImage": "https://media.partsinmotion.co.uk/images/v1/5179197.width-660.res-70.jpg",
+								"wiperLink": "https://www.partsinmotion.co.uk/car-parts/wash-wipe/wiper-arms-blades/bosch2xwiperbladespairflataerotype3397014354-detail"
 							},
 							{
-								"wiperName": "",
-								"wiperImage": ""
+								"wiperName": "Valeo VF481 2x Wiper Blades (Pair) Flat / Aero type",
+								"wiperImage": "https://media.partsinmotion.co.uk/images/v1/5443385.width-660.res-70.jpg",
+								"wiperLink": "https://www.partsinmotion.co.uk/car-parts/wash-wipe/wiper-arms-blades/valeo2xwiperbladespairflataerotypefrontvf481-detail"
 							},
 							{
-								"wiperName": "",
-								"wiperImage": ""
+								"wiperName": "Quinton Hazell QDW131 2x Wiper Blades (Pair) Flat / Aero type",
+								"wiperImage": "https://media.partsinmotion.co.uk/images/v1/5387967.width-660.res-70.jpg",
+								"wiperLink": "https://www.partsinmotion.co.uk/car-parts/wash-wipe/wiper-arms-blades/quinton-hazell-wiper-blade-qdw131-detail"
 							}
 						]
 					},
