@@ -7,6 +7,12 @@ exports.handler = async (event, context) => {
 		},
 		body: JSON.stringify(
 			{
+				"carDetails": {
+					"licencePlate": "SN63 KUU",
+					"car": "Hyundia X20",
+					"variant": "MK1 (JC) 2010 MPV",
+					"engine": "1591ccm 123HP 92KW (Petrol)"
+				},
 				"wiperTypes": [
 					{
 						"compatabilityStatus": "Compatible",
