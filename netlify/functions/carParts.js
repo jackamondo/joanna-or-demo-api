@@ -33,6 +33,20 @@ exports.handler = async (event, context) => {
 								"model": "A3",
 								"yearRange": "2010–2016"
 							}
+						],
+						"wiperDetails": [
+							{
+								"wiperName": "",
+								"wiperImage": ""
+							},
+							{
+								"wiperName": "",
+								"wiperImage": ""
+							},
+							{
+								"wiperName": "",
+								"wiperImage": ""
+							}
 						]
 					},
 					{
