@@ -27,6 +27,7 @@ exports.handler = async (event, context) => {
             "orderNumber": "123456789",
             "orderStatus": "processing",
             "orderDate": "26/07/2025",
+            "orderType": "Bespoke",
             "product": [
               {
                 "productName": "Cecelia Orchid Roller Blind",
