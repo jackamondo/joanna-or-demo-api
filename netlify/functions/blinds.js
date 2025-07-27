@@ -8,7 +8,7 @@ exports.handler = async (event, context) => {
     body: JSON.stringify({
       "customer": {
         "customerName": "Louise Crosby",
-        "customerEmail": "louise.crosby@appamondo.com",
+        "customerEmail": "louise.crosby@gamil.com",
         "customerPhone": "+44 9485 472 128",
         "billingAddress": {
           "street": "47 Park Lane",
