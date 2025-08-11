@@ -45,7 +45,7 @@ exports.handler = async (event, context) => {
               },
               {
                 "orderNumber": "987654321",
-                "orderStatus": "delivered",
+                "orderStatus": "dispatched",
                 "productName": "Super Mario 3D World",
                 "productId": 858236,
                 "sku": "0406634348",
