@@ -13,7 +13,8 @@ exports.handler = async (event, context) => {
       },
       "account": {
           "plan": {
-            "level": "gold"
+            "level": "gold",
+            "hoursRemaining": "7"
           },
         "last_updated": "2025-02-25T15:45:00Z"
       }
