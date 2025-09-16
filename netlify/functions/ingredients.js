@@ -14,7 +14,7 @@ exports.handler = async (event, context) => {
         },
         {
            "name": "Collagen Gummies",
-           "image": "Fish. May also contain milk, soya, cereals containing gluten, fish and crustaceans"
+           "allergens": "Fish. May also contain milk, soya, cereals containing gluten, fish and crustaceans"
        }      
       ]
       }
