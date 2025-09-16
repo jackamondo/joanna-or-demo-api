@@ -35,7 +35,6 @@ exports.handler = async (event, context) => {
               },
               {
                 "orderNumber": "123456789",
-                "orderStatus": "in progress",
                 "productName": "Collagen & Vitamin C",
                 "productId": 858383,
                 "sku": "0406654608",
@@ -45,7 +44,6 @@ exports.handler = async (event, context) => {
               },
               {
                 "orderNumber": "123456789",
-                "orderStatus": "delivered",
                 "productName": "Protein Spread",
                 "productId": 858236,
                 "sku": "0406634348",
