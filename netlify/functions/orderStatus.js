@@ -25,7 +25,7 @@ exports.handler = async (event, context) => {
           "delivery": [
             {
               "delivery_status": "processing",
-              "order_nubmer": "SPB123456789012",
+              "order_nubmer": "987654321",
               "expected_delivery_date": "24/04/2025",
               "tracking_link": "SPB123456789012",
               "product_name": "Layflat XL Landscape Photo Book",
