@@ -9,7 +9,7 @@ exports.handler = async (event, context) => {
       "customer": {
         "customerName": "Dana Royle",
         "supportType": "Enterprise",
-        "SupportHours": "50",
+        "SupportHours": "8",
         "customerEmail": "dana.royle@appamondo.com",
         "customerPhone": "+44 9485 472 128",
         "billingAddress": {
