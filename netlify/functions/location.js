@@ -19,7 +19,7 @@ exports.handler = async (event, context) => {
         },
         {
           "nearest": "Farham",
-          "41-42 The Borough Farnham GU9 7NW",
+          "address": "41-42 The Borough Farnham GU9 7NW",
           "image": "https://asset.nobiadigital.com/image/upload/q_auto/f_auto/ar_0.9351,c_fill,w_720/v1/Magnet/Kitchens/Ambleside/MAG002_AMBLESIDE_AUG23_SC02_AMBLESIDE_KITCHEN_MOSS_AND_LIMESTONE_S03_ADOBE_98/?_a=ATAMhAA0"
         },
         {
