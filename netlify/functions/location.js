@@ -26,7 +26,7 @@ exports.handler = async (event, context) => {
           "nearest": "Egham",
           "address": "21/23 The Precinct Egham Highsteet Egham TW20 9HN",
           "image": "https://asset.nobiadigital.com/image/upload/tr:q-70,f-auto,ar-1.3548-1,c-maintain_ratio,w-840/v1/Magnet/Kitchens/Luna/Luna_Grey_Main/?_a=DATAdtAAZAA0"
-        },
+        }
       ]
     })
   };
