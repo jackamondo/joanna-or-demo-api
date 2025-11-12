@@ -26,7 +26,6 @@ exports.handler = async (event, context) => {
        {
          "orderNumber": "123456789",
          "orderStatus": "delayed",
-       },
          "product": [
            {
              "productName": "ghd platinum+ styler",
@@ -47,7 +46,9 @@ exports.handler = async (event, context) => {
              "quantity": 1
             }
             ]
-       }
+          }
+        ]
+      }
     })
   };
-}; 
+};
