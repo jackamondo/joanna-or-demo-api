@@ -25,7 +25,7 @@ exports.handler = async (event, context) => {
      "order": [
        {
          "orderNumber": "123456789",
-         "orderStatus": "delayed",
+         "orderStatus": "delayed"
          "product": [
            {
              "productName": "ghd platinum+ styler",
