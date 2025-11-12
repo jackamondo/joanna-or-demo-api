@@ -31,7 +31,7 @@ exports.handler = async (event, context) => {
              "productName": "ghd platinum+ styler",
              "productId": 858383,
              "sku": "0406654608",
-             "image": "https://testamondo1732886182.zendesk.com/hc/theming_assets/01K9W9BCDMATJG227B7SXTX983,
+             "image": "https://testamondo1732886182.zendesk.com/hc/theming_assets/01K9W9BCDMATJG227B7SXTX983",
              "colour": "Black",
              "price": 189.99,
              "quantity": 1
