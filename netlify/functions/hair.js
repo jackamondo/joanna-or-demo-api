@@ -6,7 +6,7 @@ exports.handler = async (event, context) => {
       'Access-Control-Allow-Origin': '*', // CORS support
     },
     body: JSON.stringify({
-"customer": {
+    "customer": {
      "customerName": "Louise Crosby",
      "customerEmail": "louise.crosby@appamondo.com",
      "customerPhone": "+44 9485 472 128",
@@ -46,7 +46,7 @@ exports.handler = async (event, context) => {
              "quantity": 1
             }
             ]
-          }
+       }}
     })
   };
 }; 
