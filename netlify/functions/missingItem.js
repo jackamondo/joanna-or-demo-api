@@ -28,13 +28,13 @@ exports.handler = async (event, context) => {
             orderStatus: "delivered",
             product: [
               {
-                productName: "ProDec 11" Stainless Steel Scissors",
+                productName: "ProDec 11 Stainless Steel Scissors",
                 productId: 858383,
                 sku: "0406654608",
                 quantity: 1
               },
               {
-                productName: "	Blackrock Hi-Vis Bodywarmer - Yellow size M",
+                productName: "Blackrock Hi-Vis Bodywarmer - Yellow size M",
                 productId: 858236,
                 sku: "0406634348",
                 quantity: 1
