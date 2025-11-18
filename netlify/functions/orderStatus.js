@@ -24,9 +24,9 @@ exports.handler = async (event, context) => {
           },
           "delivery": [
             {
-              "delivery_status": "Out for Delivery",
+              "orderStatus": "Out for Delivery",
               "order_nubmer": "987654321",
-              "expected_delivery_date": "24/04/2025",
+              "deliveryDate": "24/04/2025",
               "tracking_link": "SPB123456789012",
               "product_name": "Layflat XL Landscape Photo Book",
               "image": "https://www.photobox.co.uk/product-pictures/Photobook/binding/layflat.jpg?d=326x265",
