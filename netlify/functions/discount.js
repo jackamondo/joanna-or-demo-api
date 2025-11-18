@@ -16,10 +16,7 @@ exports.handler = async (event, context) => {
            "code": "BOGOFF",
            "conditions": "This code is only valid when buying two items that are not already discounted"
        }      
-      ],
-        "newcode": {
-          "new": "fkeiHaqQ39I"
-        }
+      ]
       }
     })
   };
