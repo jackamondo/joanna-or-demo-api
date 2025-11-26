@@ -29,9 +29,12 @@ exports.handler = async (event, context) => {
                 "productName": "Clear Protein",
                 "productId": 858383,
                 "sku": "0406654608",
-                "image": "https://www.bulk.com/media/catalog/product/L/e/Lemon_Iced_Tea_Carousel_1_EN_e787.jpg?auto=webp&quality=80&crop=false&fit=cover&width=1080&resize-filter=bicubic",
+                "image": "https://www.bulk.com/media/catalog/product/b/p/bpb_cwhe_peach_iced_tea_image_1_UK_f6cc.jpg?auto=webp&quality=80&crop=false&fit=cover&width=768.375&resize-filter=bicubic",
                 "price": 18.99,
-                "quantity": 1
+                "quantity": 1,
+                "description": "FUEL YOUR SESSIONS: premium hydrolysed protein isolate, SMASH YOUR DAILY PROTEIN GOALS: 20g clear protein in every scoop, MAXIMISE YOUR RESULTS: with our award-winning formula, TRACK YOUR MACROS: each serving contains just 86 calories and is sugar free, TASTE THE GAINS: your daily protein-packed refreshment",
+                "ingredients": "Whey Protein Hydrolysate (Milk), Flavouring, Anti-Foaming Agents (Polydimethylsiloxane, Silicon Dioxide), Sweetener (Sucralose), Acid (Citric Acid), Colour (Beetroot Red).",
+                "suitableFor": "Halal, Vegetarian"
               },
               {
                 "orderNumber": "123456789",
