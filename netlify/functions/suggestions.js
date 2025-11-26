@@ -30,7 +30,7 @@ exports.handler = async (event, context) => {
               {
                 "orderNumber": "123456789",
                 "orderStatus": "processing",
-                "productName": "Clear Protein",
+                "productName": "Clear Whey Isolate - Peach Iced Tea",
                 "productId": 858383,
                 "sku": "0406654608",
                 "image": "https://www.bulk.com/media/catalog/product/b/p/bpb_cwhe_peach_iced_tea_image_1_UK_f6cc.jpg?auto=webp&quality=80&crop=false&fit=cover&width=768.375&resize-filter=bicubic",
