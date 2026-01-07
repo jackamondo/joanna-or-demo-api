@@ -32,6 +32,7 @@ exports.handler = async (event, context) => {
                             "productId": 858383,
                             "sku": "0406654608",
                             "image": "https://www.grenade.com/cdn/shop/files/Grenade_Softcore_CremeEgg_Secondaries_1.jpg?v=1763633551&width=1346",
+                          "orderStatus": "delayed",
                             "weight": 7.5,
                             "price": 30.00,
                             "quantity": 1
@@ -41,6 +42,7 @@ exports.handler = async (event, context) => {
                             "productId": 858236,
                             "sku": "0406634348",
                             "image": "https://www.grenade.com/cdn/shop/files/BDC_Secondarys_2025_1.jpg?v=1753717667&width=1346",
+                          "orderStatus": "delayed",
                             "weight": 0.6,
                             "price": 22.22,
                             "quantity": 1
