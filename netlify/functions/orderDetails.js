@@ -28,23 +28,25 @@ exports.handler = async (event, context) => {
                     "orderStatus": "delayed",
                     "product": [
                         {
-                            "productName": "Grenade Soft Core Creme Egg Protein Bar",
+                            "productName": "Pink Jumper",
                             "productId": 858383,
                             "sku": "0406654608",
-                            "image": "https://www.grenade.com/cdn/shop/files/Grenade_Softcore_CremeEgg_Secondaries_1.jpg?v=1763633551&width=1346",
-                          "orderStatus": "delayed",
+                            "image": "https://testamondo1732886182.zendesk.com/hc/theming_assets/01K5E0Z4XNZXM4YQFEFEYBA9WQ",
+                            "colour": "Pink",
+                            "size": "Womens uk 8",
                             "weight": 7.5,
-                            "price": 30.00,
+                            "price": 25.99,
                             "quantity": 1
                         },
                         {
-                            "productName": "Birthday Cake Protein Bar",
+                            "productName": "Blue jeans",
                             "productId": 858236,
                             "sku": "0406634348",
-                            "image": "https://www.grenade.com/cdn/shop/files/BDC_Secondarys_2025_1.jpg?v=1753717667&width=1346",
-                          "orderStatus": "delayed",
+                            "image": "https://testamondo1732886182.zendesk.com/hc/theming_assets/01K5E11A3MA76QHQVBYR6YA3AG",
+                            "colour": "Blue",
+                            "size": "Womens uk 8",
                             "weight": 0.6,
-                            "price": 22.22,
+                            "price": 35.99,
                             "quantity": 1
                         }
                     ]
@@ -53,4 +55,4 @@ exports.handler = async (event, context) => {
       }
     })
   };
-}; 
+};
