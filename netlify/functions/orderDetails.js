@@ -28,27 +28,27 @@ exports.handler = async (event, context) => {
                     "orderStatus": "delayed",
                     "product": [
                         {
-                            "productName": "Pink Jumper",
+                            "productName": "Yellow Gold Plated 19cm Cubic Zirconia Malachite Clover Bracelet",
                             "productId": 858383,
                             "sku": "0406654608",
                             "orderStatus": "delayed",
-                            "image": "https://testamondo1732886182.zendesk.com/hc/theming_assets/01K5E0Z4XNZXM4YQFEFEYBA9WQ",
-                            "colour": "Pink",
+                            "image": "https://media.beaverbrooks.co.uk/i/beaverbrooks/S142616_0?$BB_NPLP_R$",
+                            "colour": "Green",
                             "size": "Womens uk 8",
                             "weight": 7.5,
-                            "price": 25.99,
+                            "price": 115,
                             "quantity": 1
                         },
                         {
-                            "productName": "Blue jeans",
+                            "productName": "Sif Jakobs Roccanova 18ct Yellow Gold Plated Green Cubic Zirconia Necklace",
                             "productId": 858236,
                             "sku": "0406634348",
                             "orderStatus": "delayed",
-                            "image": "https://testamondo1732886182.zendesk.com/hc/theming_assets/01K5E11A3MA76QHQVBYR6YA3AG",
-                            "colour": "Blue",
+                            "image": "https://media.beaverbrooks.co.uk/i/beaverbrooks/S146056_0/Sif-Jakobs-Roccanova-18ct-Yellow-Gold-Plated-Green-Cubic-Zirconia-Necklace-0146056?$PDP_L_R$&$Sale_Badge_BB$",
+                            "colour": "Green",
                             "size": "Womens uk 8",
                             "weight": 0.6,
-                            "price": 35.99,
+                            "price": 115,
                             "quantity": 1
                         }
                     ]
