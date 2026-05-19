@@ -44,7 +44,7 @@ exports.handler = async (event, context) => {
                             "productId": 858236,
                             "sku": "0406634348",
                             "orderStatus": "delayed",
-                            "image": "https://media.beaverbrooks.co.uk/i/beaverbrooks/S146056_0/Sif-Jakobs-Roccanova-18ct-Yellow-Gold-Plated-Green-Cubic-Zirconia-Necklace-0146056?$PDP_L_R$&$Sale_Badge_BB$",
+                            "image": "https://media.beaverbrooks.co.uk/i/beaverbrooks/S146056_0?$BB_NPLP_R$",
                             "colour": "Green",
                             "size": "Womens uk 8",
                             "weight": 0.6,
