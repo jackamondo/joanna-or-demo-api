@@ -20,7 +20,7 @@ exports.handler = async (event, context) => {
         "last_updated": "2025-02-25T15:45:00Z"
       },
       "wifiStatus": {
-        "currentStatus": "Known incident",
+        "currentStatus": "Current Outage",
         "latestMessage": "There is an active incident that is currently under investigation. Current ETA for fix 16:00"
       }
     })
