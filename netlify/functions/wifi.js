@@ -20,8 +20,8 @@ exports.handler = async (event, context) => {
         "last_updated": "2025-02-25T15:45:00Z"
       },
       "wifiStatus": {
-        "currentStatus": "Train delayed",
-        "latestMessage": "Due to line works that were not complete in time."
+        "currentStatus": "Known incident",
+        "latestMessage": "There is an active incident that is currently under investigation. Current ETA for fix 16:00"
       }
     })
   };
