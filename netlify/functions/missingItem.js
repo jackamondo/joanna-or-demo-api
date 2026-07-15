@@ -25,7 +25,7 @@ exports.handler = async (event, context) => {
         order: [
           {
             orderNumber: "123456789",
-            orderStatus: "delivered",
+            orderStatus: "partially_shipped",
             product: [
               {
                 productName: "ProDec 11 Stainless Steel Scissors",
