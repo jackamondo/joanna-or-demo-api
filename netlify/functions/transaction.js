@@ -27,7 +27,7 @@ exports.handler = async (event, context) => {
           lastFourDigits: "6945"
         },
         transactionDate: "2026-07-17",
-        confirmationMessage: "Your Mondo Lite subscription has been successfully set up and is active."
+        product: "Mondo Lite"
       },
       metadata: {
         requestId: "txn_mock_001",
