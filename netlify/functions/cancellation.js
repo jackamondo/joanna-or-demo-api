@@ -9,7 +9,7 @@ exports.handler = async (event, context) => {
       "cancellation": {
          "status": 
          {
-            "cancellationStatus": "Successful"
+            "cancellationStatus": "available"
         }    
       
       }
