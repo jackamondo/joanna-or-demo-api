@@ -26,7 +26,7 @@ exports.handler = async (event, context) => {
             {
               "orderStatus": "Out for Delivery",
               "order_nubmer": "987654321",
-              "deliveryDate": "19/11/2025",
+              "deliveryDate": "13/10/2026",
               "tracking_link": "SPB123456789012",
               "product_name": "Layflat XL Landscape Photo Book",
               "image": "https://www.photobox.co.uk/product-pictures/Photobook/binding/layflat.jpg?d=326x265",
@@ -36,7 +36,7 @@ exports.handler = async (event, context) => {
             {
               "delivery_status": "in transit",
               "order_nubmer": "SBP098765432109",
-              "expected_delivery_date": "20/04/2025",
+              "expected_delivery_date": "13/10/2026",
               "tracking_link": "SBP098765432109",
               "product_name": "Personalised jigsaw",
               "image": "https://www.photobox.co.uk/product-pictures/product-overview/jigsaw.jpg?d=460x368",
