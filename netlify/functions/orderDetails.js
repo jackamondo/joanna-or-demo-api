@@ -28,25 +28,25 @@ exports.handler = async (event, context) => {
                     "orderStatus": "delayed",
                     "product": [
                         {
-                            "productName": "Pink Jumper",
+                            "productName": "Lua 2 Bedside Crib - Thyme",
                             "productId": 858383,
                             "sku": "0406654608",
-                            "image": "https://testamondo1732886182.zendesk.com/hc/theming_assets/01K5E0Z4XNZXM4YQFEFEYBA9WQ",
-                            "colour": "Pink",
+                            "image": "https://www.mamasandpapas.com/cdn/shop/files/mamas-papas-bedside-sleeping-lua-2-bedside-crib-thyme-1259591196.jpg?v=1791799360&width=2048",
+                            "colour": "Thyme",
                             "size": "Womens uk 8",
                             "weight": 7.5,
-                            "price": 25.99,
+                            "price": 229,
                             "quantity": 1
                         },
                         {
-                            "productName": "Blue jeans",
+                            "productName": "Plum Floral Mesh Embroidery Dress",
                             "productId": 858236,
                             "sku": "0406634348",
-                            "image": "https://testamondo1732886182.zendesk.com/hc/theming_assets/01K5E11A3MA76QHQVBYR6YA3AG",
-                            "colour": "Blue",
+                            "image": "https://www.mamasandpapas.com/cdn/shop/files/mamas-papas-dresses-skirts-plum-floral-mesh-embroidery-dress-1260262046.jpg?v=1791191022&width=2048",
+                            "colour": "Plum",
                             "size": "Womens uk 8",
                             "weight": 0.6,
-                            "price": 35.99,
+                            "price": 42,
                             "quantity": 1
                         }
                     ]
