@@ -74,8 +74,6 @@ exports.handler = async (event, context) => {
     {"id": 49, "name": "Owen Blake", "email": "owen.blake@example.com"},
     {"id": 50, "name": "Priya Kapoor", "email": "priya.kapoor@example.com"}
   ]
-          }
-        ]
       }
     })
   };
