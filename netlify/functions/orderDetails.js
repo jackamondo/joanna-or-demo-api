@@ -28,25 +28,21 @@ exports.handler = async (event, context) => {
                     "orderStatus": "delayed",
                     "product": [
                         {
-                            "productName": "Lua 2 Bedside Crib - Thyme",
+                            "productName": "Advanced Anti-Colic Baby Bottles",
                             "productId": 858383,
                             "sku": "0406654608",
-                            "image": "https://www.mamasandpapas.com/cdn/shop/files/mamas-papas-bedside-sleeping-lua-2-bedside-crib-thyme-1259591196.jpg?v=1791799360&width=2048",
-                            "colour": "Thyme",
-                            "size": "Womens uk 8",
-                            "weight": 7.5,
-                            "price": 229,
+                            "image": "https://www.tommeetippee.com/cdn/shop/files/wxdnbdykb9qdjqfwrtgd_4hdj8zzydoan1yz5.jpg",
+                            "colour": "Clear",
+                            "price": 19.99,
                             "quantity": 1
                         },
                         {
-                            "productName": "Plum Floral Mesh Embroidery Dress",
+                            "productName": "Ultra UV Steriliser, Dryer and Storage",
                             "productId": 858236,
                             "sku": "0406634348",
-                            "image": "https://www.mamasandpapas.com/cdn/shop/files/mamas-papas-dresses-skirts-plum-floral-mesh-embroidery-dress-1260262046.jpg?v=1791191022&width=2048",
-                            "colour": "Plum",
-                            "size": "Womens uk 8",
-                            "weight": 0.6,
-                            "price": 42,
+                            "image": "https://www.tommeetippee.com/cdn/shop/files/42395510_Ultrauv_3_in_1_Steriliser_Dryer_and_Storage_Slate.jpg",
+                            "colour": "Black",
+                            "price": 124.99,
                             "quantity": 1
                         }
                     ]
